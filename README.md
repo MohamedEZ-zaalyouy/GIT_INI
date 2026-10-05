@@ -24,7 +24,7 @@ vers :
 4. Sélectionner `Build GET .INI APK`.
 5. Cliquer sur `Run workflow`.
 6. Une fois terminé, ouvrir le résultat du workflow.
-7. Dans `Artifacts`, télécharger `GET-IN I-debug`.
+7. Dans `Artifacts`, télécharger `GET-INI-debug`.
 8. Extraire le ZIP et récupérer `app-debug.apk`.
 
 ## Important Android 13
